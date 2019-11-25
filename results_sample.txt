@@ -1,0 +1,125 @@
+LOve: 30 sites
+--------------------------
+like  |  69
+food  |  65
+baby  |  57
+said  |  46
+god  |  45
+babies  |  43
+life  |  42
+people  |  39
+children  |  39
+rate  |  38
+--------------------------
+
+Python: 30 sites
+--------------------------
+use  |  297
+quiz  |  192
+see  |  166
+code  |  154
+module  |  137
+try  |  130
+page  |  124
+programming  |  115
+guide  |  112
+documentation  |  112
+--------------------------
+
+TREACHERY: 30 sites
+--------------------------
+game  |  53
+policy  |  50
+use  |  46
+way  |  32
+loading  |  29
+life  |  28
+tier  |  27
+see  |  27
+reward  |  26
+projects  |  26
+--------------------------
+
+AMYGDALA: 30 sites
+--------------------------
+stress  |  170
+fear  |  128
+brain  |  124
+response  |  114
+emotional  |  100
+anxiety  |  97
+stimuli  |  68
+studies  |  64
+neurons  |  64
+responses  |  59
+--------------------------
+
+GRAVITY: 30 sites
+--------------------------
+object  |  79
+force  |  52
+constant  |  50
+objects  |  48
+value  |  38
+theory  |  36
+earth  |  33
+container  |  31
+horizontal  |  28
+die | 28
+--------------------------
+
+DEPRESSION: 30 sites
+--------------------------
+health  |  218
+symptoms  |  210
+people  |  210
+disorder  |  176
+major  |  169
+depressive  |  159
+treatment  |  152
+mood  |  147
+mental  |  125
+therapy  |  105
+--------------------------
+
+TOM CRUISE: 30 sites
+--------------------------
+film  |  95
+actor  |  52
+mission  |  48
+impossible  |  47
+scientology  |  44
+cruises  |  39
+year  |  35
+films  |  34
+new  |  33
+award  |  33
+--------------------------
+
+AI: 100 sites
+--------------------------
+intelligence  |  295
+artificial  |  263
+learning  |  182
+data  |  170
+machine  |  148
+human  |  146
+use  |  141
+research  |  130
+new  |  128
+systems  |  127
+--------------------------
+
+GLOBAL WORMING: 60 sites
+--------------------------
+climate  |  6269
+century  |  5850
+europe  |  4079
+years  |  3887
+population  |  3580
+period  |  3435
+weather  |  3186
+ice  |  3017
+people  |  2735
+temperatures | 2554
+--------------------------
